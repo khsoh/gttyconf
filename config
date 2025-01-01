@@ -1,0 +1,8 @@
+command = /bin/zsh
+theme = catppuccin-mocha
+font-family = ""
+font-family = "FiraMono Nerd Font Mono"
+font-size = 18
+click-repeat-interval = 500
+auto-update = off
+auto-update-channel = stable
