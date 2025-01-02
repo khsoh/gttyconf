@@ -6,3 +6,30 @@ font-size = 18
 click-repeat-interval = 500
 auto-update = off
 auto-update-channel = stable
+
+# key bindings that are like my kitty setup
+keybind = ctrl+a>ctrl+a=text:\x01
+keybind = ctrl+a>shift+r=reload_config
+keybind = ctrl+a>h=new_split:down
+keybind = ctrl+a>v=new_split:right
+keybind = ctrl+h=goto_split:left
+keybind = ctrl+j=goto_split:bottom
+keybind = ctrl+k=goto_split:top
+keybind = ctrl+l=goto_split:right
+
+
+keybind = ctrl+a>c=new_tab
+keybind = ctrl+a>n=next_tab
+keybind = ctrl+a>p=previous_tab
+
+# goto tab N
+keybind = ctrl+a>1=goto_tab:1
+keybind = ctrl+a>2=goto_tab:2
+keybind = ctrl+a>3=goto_tab:3
+keybind = ctrl+a>4=goto_tab:4
+keybind = ctrl+a>5=goto_tab:5
+keybind = ctrl+a>6=goto_tab:6
+keybind = ctrl+a>7=goto_tab:7
+keybind = ctrl+a>8=goto_tab:8
+keybind = ctrl+a>9=goto_tab:9
+
