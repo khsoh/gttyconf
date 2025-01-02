@@ -1,0 +1,3 @@
+.gitremotes         export-ignore
+LICENSE             export-ignore
+git-remote-init.sh  export-ignore
